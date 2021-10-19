@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @k-pac
-- 👀 I’m interested in Web Design & Front-end Development
-- 🌱 I’m currently learning Responsive Web Design, Figma, Adobe XD, WordPress, GitHub, and soon JavaScript!
+- 👋 Hi, I’m Kim!
+- 👩‍💻 I’m interested in Web Design & Front-end Development
+- 📚 I’m currently learning UX Design, Figma, WordPress, GitHub, and soon JavaScript!
 
 
 <!---
